@@ -13,4 +13,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=cocainebody&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=cocainebody&show_icons=true&theme=default)
