@@ -6,4 +6,4 @@ Currently, I’m not actively seeking collaboration opportunities as I want to c
 <!--- No secret info here ;) --->
 
 # Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=cocainebody&show_icons=true&theme=default) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cocainebody)](https://github.com/cocainebody/github-readme-stats)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reallythin&show_icons=true&theme=default) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reallythin)](https://github.com/reallythin/github-readme-stats)
