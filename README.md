@@ -2,7 +2,7 @@
 <h3 align="center">Welcome to my GitHub Profile</h3>
 At the moment, I’m focusing on building a strong foundation in web development, starting with HTML. I'm also planning on expanding my knowledge by learning C# and Python soon. Once I've succeeded in those areas, I'd love to contribute to open-source projects.
 
-Currently, I’m not actively seeking collaboration opportunities as I want to concentrate on mastering the basics first. However, if you’d like to reach out to me, feel free to create an issue on this repository and tag it with the “inquire” flair.
+Currently, I’m not looking for any collaboration opportunities as I want to concentrate on mastering the basics first. However, if you’d like to reach out to me, feel free to create an issue on this repository and tag it with the “inquire” flair.
 <!--- No secret info here ;) --->
 
 # Stats
