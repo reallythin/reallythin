@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm cocainebody</h1>
+<h1 align="center">Hi 👋, I'm @reallythin</h1>
 <h3 align="center">Welcome to my GitHub Profile</h3>
 At the moment, I’m focusing on building a strong foundation in web development, starting with HTML. I'm also planning on expanding my knowledge by learning C# and Python soon. Once I've succeeded in those areas, I'd love to contribute to open-source projects.
 
