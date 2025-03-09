@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm @reallythin</h1>
 <h3 align="center">Welcome to my GitHub Profile</h3>
-At the moment, I’m focusing on building a strong foundation in web development, focusing on HTML. I'm also planning to expand my knowledge by learning C# and Python in the future. Once I've managed to create a solid base in those areas, I'd love to contribute to open-source projects.
+I'm currently focusing on building my foundation in Python. However, I'm planning on expanding my knowledge into C# and .NET development in the future. After building this base, I'd love to contribute to open-source projects.
 <!--- No secret info here ;) --->
 
 # Stats
